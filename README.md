@@ -1,1 +1,4 @@
-## Algorithm and Data Structures In Python
+# Algorithm and Data Structures In Python
+
+	* Linked List
+	* Stack 

@@ -2,4 +2,3 @@
 
 * Linked List
 * Stack 
-* Queue

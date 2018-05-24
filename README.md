@@ -4,3 +4,4 @@
 * Stack 
 * Queue
 * Binary Search Tree
+* QuickSort
